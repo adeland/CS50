@@ -1,2 +1,2 @@
-# CS50
-Harvard CS50 Course
+# Projects
+Work from Harvard CS50 and MIT 6.0001
